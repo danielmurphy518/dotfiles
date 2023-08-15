@@ -1,0 +1,23 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AndroidStudioProjects/MyApplication">
+          <value>
+            <RecentProjectMetaInfo frameTitle="My Application – MainActivity.kt [My_Application.app.main]" opened="true" projectWorkspaceId="2TEsKlUlTc8Iy2MgDY9KKYiPxz8">
+              <option name="activationTimestamp" value="1692016936499" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-223.8836.35.2231.10406996" />
+              <option name="buildTimestamp" value="1688020625868" />
+              <frame x="13" y="-3" width="939" height="1040" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1692016932230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/AndroidStudioProjects/MyApplication" />
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

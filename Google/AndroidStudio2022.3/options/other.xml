@@ -1,0 +1,51 @@
+<application>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;ATTACHED_TOOL_WINDOW.Compose Preview.TOOL_ORDER&quot;: &quot;&quot;,
+    &quot;ATTACHED_TOOL_WINDOW.DEFAULT.Compose Preview.TOOL_ORDER&quot;: &quot;&quot;,
+    &quot;RunOnceActivity.cidr.test.framework.showIndexingAsTask&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;SAVED_ANDROID_NPW_ASKED_LANGUAGE&quot;: &quot;true&quot;,
+    &quot;SAVED_ANDROID_NPW_LANGUAGE&quot;: &quot;Kotlin&quot;,
+    &quot;SAVED_ANDROID_PACKAGE&quot;: &quot;com.example&quot;,
+    &quot;Source Code Editor With PreviewLayout&quot;: &quot;Editor only&quot;,
+    &quot;android.sdk.path&quot;: &quot;/home/daniel/Android/Sdk&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;AI-223.8836.35.2231.10406996-4a66d319171b9608a5057b2c714ca0fe1ddfef420fcde4c917468db69f2963f1&quot;,
+    &quot;build.toolwindow.Build Output.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;AI-223.8836.35.2231.10406996&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;1&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;gotit.previous.run&quot;: &quot;AI-223.8836.35.2231.10406996&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;223-1.8.0-release-345-AS8836.35.2231.10406996&quot;,
+    &quot;newly.installed.api.level&quot;: &quot;33&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Darcula&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;AI-223.8836.35.2231.10406996&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.jetbrains.cidr.lang.OCHeaderFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ],
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;/home/daniel/.gradle&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "Kotlin": 1690620991008,
+    "InjectSQLLanguage": 1690620991962,
+    "Kotlin_mix": 1690620990008,
+    "Kotlin_Java_convert": 1690620993109,
+    "Kotlin_project": 1690620987162
+  }
+}]]></component>
+</application>

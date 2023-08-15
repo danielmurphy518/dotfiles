@@ -1,0 +1,25 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Exit">
+      <i c="1" l="1690620959685" />
+    </e>
+    <e n="Run">
+      <i c="5" l="1690621065417" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1690620949868" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1690619467727" />
+    </e>
+    <e n="android.device.power.button">
+      <i c="3" l="1690620309984" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="1" l="1690621098735" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1690620312343" />
+    </e>
+  </component>
+</application>

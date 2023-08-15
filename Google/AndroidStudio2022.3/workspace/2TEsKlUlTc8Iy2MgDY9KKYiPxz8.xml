@@ -1,0 +1,135 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="My Application" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state>
+              <editor-state relative-caret-position="242">
+                <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list />
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="3" lastUsed="1692016931959" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="kotlin">
+      <summary usageCount="3" lastUsage="1692016931961" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Build Variants" order="1" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Resources Explorer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Android Profiler" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" />
+      <window_info anchor="bottom" id="App Quality Insights" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Layout Inspector" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" />
+      <window_info anchor="bottom" id="App Inspection" order="14" />
+      <window_info anchor="right" id="Assistant" order="0" weight="0.32989419" />
+      <window_info anchor="right" id="Device Explorer" order="1" side_tool="true" />
+      <window_info anchor="right" id="App Links Assistant" order="2" />
+      <window_info anchor="right" id="Device Manager" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Running Devices" order="6" side_tool="true" weight="0.32989419" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Running Devices</value>
+      <value>Project</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1848" height="308" key="GridCell.Tab.0.bottom" timestamp="1690621098818">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1690621098818" />
+    <state width="1848" height="308" key="GridCell.Tab.0.center" timestamp="1690621098818">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="308" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1690621098818" />
+    <state width="1848" height="308" key="GridCell.Tab.0.left" timestamp="1690621098818">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="308" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1690621098818" />
+    <state width="1848" height="308" key="GridCell.Tab.0.right" timestamp="1690621098818">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="308" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1690621098818" />
+    <state x="449" y="152" key="SettingsEditor" timestamp="1690620955722">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="152" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1690620955722" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/myapplication/MainActivity.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="242">
+            <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
